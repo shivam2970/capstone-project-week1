@@ -1,0 +1,7 @@
+this notebook is for capstone project only
+
+import pandas as pd
+import numpy as np
+ 
+print("hello capstone project notebook")
+hello capstone project notebook
